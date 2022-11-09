@@ -1,0 +1,39 @@
+1. Add at least 4 lights to your scene (30 pts)
+
+Use at least 4 out of the 5 following types:
+
+- Point Light
+X Directional Light
+- Spotlight
+- Area Light
+- Emissive Material
+
+Each light must be appropriately placed such that the range intersects with an object and the intensity is powerful enough to be visible.
+
+
+2. Create a lighting transition (30 pts)
+
+Pick one or the other:
+
+- Day-to-night cycle
+- UI button to switch between lights on/off/dimmed
+ 
+
+3. Add a particle system (30 pts)
+
+Pick one or the other:
+
+- 2D Texture emitter
+- 3D Mesh emitter
+Note: You can use an emissive material in your particle system, which would count towards Part 1.
+
+4. "Polished" look (10 pts)
+
+- Cohesive scene
+- Interesting lighting
+- Good use of materials/textures
+
+Extra credit:
+
+5 pts - Include both of the lighting transitions (day/night cycle & on/off/dim button)
+5 pts - Include two particle systems (2D texture emitter & 3D mesh emitter)
